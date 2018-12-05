@@ -6,6 +6,9 @@ This is a docker container with a templated practice rails app in it.
 * Rails: 5.2.0
 * Postgres: '>= 0.18', '< 2.0'
 
+## Docker Image File
+[https://hub.docker.com/r/richardsonae/practice_rails_app_web/](https://hub.docker.com/r/richardsonae/practice_rails_app_web/)
+
 ## Get started by
 Cloning the repo
 ```
